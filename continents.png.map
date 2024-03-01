@@ -1,0 +1,14 @@
+<img src="continents.png" width="536" height="258" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:AS -->
+<area shape="rect" coords="463,191,475,203" alt="Océanie"  nohref="nohref" />
+<area shape="rect" coords="276,141,288,153" alt="Afrique"  nohref="nohref" />
+<area shape="rect" coords="268,53,280,65" alt="Europe"  nohref="nohref" />
+<area shape="rect" coords="60,66,72,78" alt="Amerique"  nohref="nohref" />
+<area shape="rect" coords="390,53,402,65" alt="Asie"  nohref="nohref" />
+</map>
